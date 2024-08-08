@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+}
+.banner{
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmJJmLS0qmi72CZXrSM8KzRWCnvpGiEWmgsg&s); 
+   background-size: cover;
+   height: 700px;
+   width: 2000px;
+   
+
+}
+.banner h1{
+    padding-top: 300px;
+    padding-left: 200px;
+   
+}
+.banner button{
+    margin-left: 200px;
+    margin-top: 30px;
+   
+}
+
+.banner p{
+    padding-left: 200px;
+}
